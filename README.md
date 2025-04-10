@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">☀️ J E E V A N ☀️</h1>
 
 <p align="center">
@@ -15,7 +14,7 @@
   <a href="https://www.linkedin.com/in/shresthajeevan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img align="right" src="https://camo.githubusercontent.com/a6c3091ed23ad078349de6c60d2ae62c8e02c77391e9b949498adbfc8619e944/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f38612f30322f30303861303265383935363235363937303563326233306434363565316261312e676966" alt="Profile Picture" width="150" height="150" />
+  <img align="right" src="https://camo.githubusercontent.com/a6c3091ed23ad078349de6c60d2ae62c8e02c77391e9b949498adbfc8619e944/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f38612f30322f30303861303265383935363235363937303563326233306434363565316261312e676966" alt="Profile Picture" width="250" height="150" />
 </div>
 
 ---
@@ -45,21 +44,3 @@
 </p>
 
 ---
-=======
-## Hi there 👋
-
-<!--
-**shresthajeevan/shresthajeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 17aa824cb35c31e47b4597ae90cb6c7460859ce6
