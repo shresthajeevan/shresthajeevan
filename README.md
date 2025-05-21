@@ -24,17 +24,11 @@
   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/LaTeX-green?style=for-the-badge&logo=latex" />
-  <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown" />
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau" />
+  
 </div>
 
 ---
