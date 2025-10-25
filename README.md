@@ -11,9 +11,7 @@
   <a href="mailto:shresthajeevan889@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jeevan-shrestha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
   <img align="right" src="https://camo.githubusercontent.com/a6c3091ed23ad078349de6c60d2ae62c8e02c77391e9b949498adbfc8619e944/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f38612f30322f30303861303265383935363235363937303563326233306434363565316261312e676966" alt="Profile Picture" width="500" height="250" style="margin-bottom: 20px;" />
 </div>
 
